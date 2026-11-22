@@ -97,3 +97,7 @@ cp build/head.riv ../App/Resources/head.riv
 ```
 
 Files published on Rive's free plan are marked for its splash screen.
+
+## License
+
+[MIT](LICENSE)
